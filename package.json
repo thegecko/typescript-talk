@@ -1,0 +1,24 @@
+{
+  "name": "typescript-talk",
+  "description": "A talk about TypeScript",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/thegecko/typescript-talk#readme",
+  "author": "Rob Moran <rob@thegecko.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegecko/typescript-talk.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mustache": "^2.3.0",
+    "socket.io": "^1.7.3"
+  }
+}
