@@ -3,7 +3,7 @@
   "description": "A talk about TypeScript",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/thegecko/typescript-talk#readme",
+  "homepage": "https://thegecko.github.io/typescript-talk/",
   "author": "Rob Moran <rob@thegecko.org>",
   "license": "MIT",
   "repository": {
